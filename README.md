@@ -1,4 +1,4 @@
-# SIMsalabim Project
+# SIMsalabim Project - Forked
 
 SIMsalabim: A 1D drift-diffusion simulator for semiconductor devices (LEDs, solar cells, diodes, organics, perovskites). It consists of two programs that share most of their code: SimSS (simulates steady-state), and ZimT (zimulates transients).
 
